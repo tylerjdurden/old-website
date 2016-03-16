@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Tyler's Personal Site
+email: durden@tamu.edu
+description: > # this means to ignore newlines until "baseurl:"
+    I'm Tyler J. Durden. This is a simple website I made to 
+    document some of my work and organize my thoughts if I ever 
+    actually decide to start blogging. Look around!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "tylerjdurden.github.io" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username:  tylerjdurden
+
+# Build settings
+markdown: kramdown
