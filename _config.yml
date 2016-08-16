@@ -32,7 +32,7 @@ color:
 # Footer settings
 footer:
   copyright: Tyler J. Durden
-  location: College Station, TX
+  location: Address
   social: Around the Web
   credits: Credits
 
@@ -58,7 +58,8 @@ address:
   - line: College Station, TX 77840
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Created using Bootstrap (Thanks, Twitter!) and Jekyll (Thanks, Tom Preston-Werner!)'
 
 # Build settings
 markdown: kramdown
