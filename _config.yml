@@ -65,3 +65,6 @@ credits: 'Created using Bootstrap (Thanks, Twitter!) and Jekyll (Thanks, Tom Pre
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Have excerpts just be the post body
+excerpt_separator: ""

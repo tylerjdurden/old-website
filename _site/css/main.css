@@ -315,6 +315,9 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
+.post-content-left-align {
+  text-align: left; }
+
 /**
  * Syntax highlighting styles
  */
