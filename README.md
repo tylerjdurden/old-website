@@ -5,4 +5,4 @@ I built this website using Bootstrap and Jekyll. Please let me know of any mista
 
 =========================
 
-Copyright 2016 Tyler J. Durden. All rights reserved.
+Copyright 2017 Tyler J. Durden. All rights reserved.
