@@ -1,6 +1,6 @@
 # Site settings
 title: Tyler J. Durden
-email: tylerjdurden@tamu.edu
+email: d0105950@gmail.com
 url: https://tylerjdurden.github.io
 # baseurl: /tylerjdurden.github.io
 description: "Tyler J. Durden's personal site and portfolio!"
@@ -47,7 +47,7 @@ social:
   - title: stack-overflow
     url: http://stackoverflow.com/users/6505822/tyler-durden
   - title: linkedin
-    url: http://linkedin.com/in/tdurden
+    url: http://linkedin.com/in/tylerjdurden
   # - title: bitbucket
   #   url: http://bitbucket.org/jekyll
   
